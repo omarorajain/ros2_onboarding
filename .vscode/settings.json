@@ -15,6 +15,6 @@
         "rclcpp",
         "srvs"
     ],
-    "editor.defaultFormatter": "xaver.clang-format",
+    "editor.defaultFormatter": "ms-iot.vscode-ros",
     "indentRainbow.indicatorStyle": "light"
 }
