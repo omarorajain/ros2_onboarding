@@ -16,5 +16,6 @@
         "srvs"
     ],
     "editor.defaultFormatter": "ms-iot.vscode-ros",
-    "indentRainbow.indicatorStyle": "light"
+    "indentRainbow.indicatorStyle": "light",
+    "cmake.configureOnOpen": false
 }
